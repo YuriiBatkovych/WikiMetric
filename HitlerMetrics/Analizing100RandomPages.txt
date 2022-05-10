@@ -1,0 +1,108 @@
+Metryka : Ścieżka 
+4 : http://en.wikipedia.org/wiki/Special:Random -> https://en.wikipedia.org/wiki/New_South_Wales_Film_and_Television_Office -> https://en.wikipedia.org/wiki/Governmental_organisation -> https://en.wikipedia.org/wiki/New_Deal -> 
+3 : http://en.wikipedia.org/wiki/Special:Random -> https://en.wikipedia.org/wiki/Governor_of_Khyber_Pakhtunkhwa -> https://en.wikipedia.org/wiki/Official_residence -> 
+4 : http://en.wikipedia.org/wiki/Special:Random -> https://en.wikipedia.org/wiki/Gates_Computer_Science_Building,_Stanford -> https://en.wikipedia.org/wiki/Gates_Computer_Science_Building_(disambiguation) -> https://en.wikipedia.org/wiki/Bill_Gates -> 
+3 : http://en.wikipedia.org/wiki/Special:Random -> https://en.wikipedia.org/wiki/School_segregation_in_the_United_States -> https://en.wikipedia.org/wiki/Racial_segregation -> 
+6 : http://en.wikipedia.org/wiki/Special:Random -> https://en.wikipedia.org/wiki/Stockton_Wood_and_Down -> https://en.wikipedia.org/wiki/List_of_Sites_of_Special_Scientific_Interest_in_Wiltshire -> https://en.wikipedia.org/wiki/Silbury_Hill -> https://en.wikipedia.org/wiki/World_Heritage_Site -> https://en.wikipedia.org/wiki/UNESCO -> 
+5 : http://en.wikipedia.org/wiki/Special:Random -> https://en.wikipedia.org/wiki/Strikeout -> https://en.wikipedia.org/wiki/Baserunning -> https://en.wikipedia.org/wiki/Stolen_base -> https://en.wikipedia.org/wiki/Rickey_Henderson -> 
+2 : http://en.wikipedia.org/wiki/Special:Random -> https://en.wikipedia.org/wiki/History_of_the_Netherlands_(1900%E2%80%93present) -> 
+3 : http://en.wikipedia.org/wiki/Special:Random -> https://en.wikipedia.org/wiki/Census_in_Australia#2016 -> https://en.wikipedia.org/wiki/World_War_I -> 
+2 : http://en.wikipedia.org/wiki/Special:Random -> https://en.wikipedia.org/wiki/Israel -> 
+3 : http://en.wikipedia.org/wiki/Special:Random -> https://en.wikipedia.org/wiki/Trove_(identifier) -> https://en.wikipedia.org/wiki/British_Library -> 
+2 : http://en.wikipedia.org/wiki/Special:Random -> https://en.wikipedia.org/wiki/DDT -> 
+3 : http://en.wikipedia.org/wiki/Special:Random -> https://en.wikipedia.org/wiki/Kansas_Collegiate_Athletic_Conference -> https://en.wikipedia.org/wiki/Catholic_Church -> 
+3 : http://en.wikipedia.org/wiki/Special:Random -> https://en.wikipedia.org/wiki/Main_Page -> https://en.wikipedia.org/wiki/Joseph_Stalin -> 
+3 : http://en.wikipedia.org/wiki/Special:Random -> https://en.wikipedia.org/wiki/Harvey_Mudd_College -> https://en.wikipedia.org/wiki/Scripps_College -> 
+2 : http://en.wikipedia.org/wiki/Special:Random -> https://en.wikipedia.org/wiki/Hip_hop_music -> 
+3 : http://en.wikipedia.org/wiki/Special:Random -> https://en.wikipedia.org/wiki/1971_in_Bolivia -> https://en.wikipedia.org/wiki/AD_1970 -> 
+2 : http://en.wikipedia.org/wiki/Special:Random -> https://en.wikipedia.org/wiki/Vehicle_registration_plate -> 
+2 : http://en.wikipedia.org/wiki/Special:Random -> https://en.wikipedia.org/wiki/Russia -> 
+2 : http://en.wikipedia.org/wiki/Special:Random -> https://en.wikipedia.org/wiki/Starfish -> 
+3 : http://en.wikipedia.org/wiki/Special:Random -> https://en.wikipedia.org/wiki/Taluk -> https://en.wikipedia.org/wiki/Free_imperial_city -> 
+3 : http://en.wikipedia.org/wiki/Special:Random -> https://en.wikipedia.org/wiki/Julius_Erasmus_Hilgard -> https://en.wikipedia.org/wiki/Germany -> 
+3 : http://en.wikipedia.org/wiki/Special:Random -> https://en.wikipedia.org/wiki/Main_Page -> https://en.wikipedia.org/wiki/Kulak -> 
+4 : http://en.wikipedia.org/wiki/Special:Random -> https://en.wikipedia.org/wiki/Veri,_Azerbaijan -> https://en.wikipedia.org/wiki/Geographic_coordinate_system -> https://en.wikipedia.org/wiki/Scotland -> 
+3 : http://en.wikipedia.org/wiki/Special:Random -> https://en.wikipedia.org/wiki/Homeland_Solidarity_Party -> https://en.wikipedia.org/wiki/List_of_political_ideologies -> 
+3 : http://en.wikipedia.org/wiki/Special:Random -> https://en.wikipedia.org/wiki/ESPNcricinfo -> https://en.wikipedia.org/wiki/Monday_Night_Football -> 
+2 : http://en.wikipedia.org/wiki/Special:Random -> https://en.wikipedia.org/wiki/Sheila_Gish -> 
+3 : http://en.wikipedia.org/wiki/Special:Random -> https://en.wikipedia.org/wiki/Royal_Government_of_Cambodia -> https://en.wikipedia.org/wiki/Head_of_government -> 
+2 : http://en.wikipedia.org/wiki/Special:Random -> https://en.wikipedia.org/wiki/Berlin -> 
+3 : http://en.wikipedia.org/wiki/Special:Random -> https://en.wikipedia.org/wiki/Taxonomy_(biology) -> https://en.wikipedia.org/wiki/Objections_to_evolution -> 
+6 : http://en.wikipedia.org/wiki/Special:Random -> https://en.wikipedia.org/wiki/Chengdu_Metro -> https://en.wikipedia.org/wiki/Chengdu%E2%80%93Dujiangyan_intercity_railway -> https://en.wikipedia.org/wiki/CRH1 -> https://en.wikipedia.org/wiki/Bombardier_Transportation -> https://en.wikipedia.org/wiki/Berlin -> 
+3 : http://en.wikipedia.org/wiki/Special:Random -> https://en.wikipedia.org/wiki/Script_kiddie -> https://en.wikipedia.org/wiki/List_of_security_hacking_incidents -> 
+2 : http://en.wikipedia.org/wiki/Special:Random -> https://en.wikipedia.org/wiki/List_of_drama_films_of_the_1970s -> 
+3 : http://en.wikipedia.org/wiki/Special:Random -> https://en.wikipedia.org/wiki/Frequency -> https://en.wikipedia.org/wiki/Europe -> 
+3 : http://en.wikipedia.org/wiki/Special:Random -> https://en.wikipedia.org/wiki/Alma_mater -> https://en.wikipedia.org/wiki/Salzburg -> 
+3 : http://en.wikipedia.org/wiki/Special:Random -> https://en.wikipedia.org/wiki/Irun -> https://en.wikipedia.org/wiki/Spanish_Civil_War -> 
+2 : http://en.wikipedia.org/wiki/Special:Random -> https://en.wikipedia.org/wiki/Carl_von_Linn%C3%A9 -> 
+2 : http://en.wikipedia.org/wiki/Special:Random -> https://en.wikipedia.org/wiki/Poland -> 
+3 : http://en.wikipedia.org/wiki/Special:Random -> https://en.wikipedia.org/wiki/Taxonomy_(biology) -> https://en.wikipedia.org/wiki/Greece -> 
+2 : http://en.wikipedia.org/wiki/Special:Random -> https://en.wikipedia.org/wiki/Malayalam_cinema -> 
+3 : http://en.wikipedia.org/wiki/Special:Random -> https://en.wikipedia.org/wiki/Faryny -> https://en.wikipedia.org/wiki/Szczytno -> 
+2 : http://en.wikipedia.org/wiki/Special:Random -> https://en.wikipedia.org/wiki/Todd_Manning -> 
+2 : http://en.wikipedia.org/wiki/Special:Random -> https://en.wikipedia.org/wiki/Slovenia -> 
+2 : http://en.wikipedia.org/wiki/Special:Random -> https://en.wikipedia.org/wiki/Catholic_Church -> 
+2 : http://en.wikipedia.org/wiki/Special:Random -> https://en.wikipedia.org/wiki/Soviet_Union -> 
+2 : http://en.wikipedia.org/wiki/Special:Random -> https://en.wikipedia.org/wiki/Serbia -> 
+2 : http://en.wikipedia.org/wiki/Special:Random -> https://en.wikipedia.org/wiki/West_Germany -> 
+3 : http://en.wikipedia.org/wiki/Special:Random -> https://en.wikipedia.org/wiki/Summit -> https://en.wikipedia.org/wiki/Russia -> 
+3 : http://en.wikipedia.org/wiki/Special:Random -> https://en.wikipedia.org/wiki/A_Child%27s_Wish -> https://en.wikipedia.org/wiki/Bill_Clinton -> 
+3 : http://en.wikipedia.org/wiki/Special:Random -> https://en.wikipedia.org/wiki/Privately_held_company -> https://en.wikipedia.org/wiki/Eastern_Bloc -> 
+6 : http://en.wikipedia.org/wiki/Special:Random -> https://en.wikipedia.org/wiki/FRS2 -> https://en.wikipedia.org/wiki/Gene_nomenclature -> https://en.wikipedia.org/wiki/Nomenclature -> https://en.wikipedia.org/wiki/Nomenklatura -> https://en.wikipedia.org/wiki/Soviet_Union -> 
+3 : http://en.wikipedia.org/wiki/Special:Random -> https://en.wikipedia.org/wiki/Taxonomy_(biology) -> https://en.wikipedia.org/wiki/Evolutionary_linguistics -> 
+2 : http://en.wikipedia.org/wiki/Special:Random -> https://en.wikipedia.org/wiki/Purple_Heart -> 
+2 : http://en.wikipedia.org/wiki/Special:Random -> https://en.wikipedia.org/wiki/Sport -> 
+3 : http://en.wikipedia.org/wiki/Special:Random -> https://en.wikipedia.org/wiki/Arrondissements_of_France -> https://en.wikipedia.org/wiki/French_Third_Republic -> 
+2 : http://en.wikipedia.org/wiki/Special:Random -> https://en.wikipedia.org/wiki/Romania -> 
+3 : http://en.wikipedia.org/wiki/Special:Random -> https://en.wikipedia.org/wiki/The_Guardian -> https://en.wikipedia.org/wiki/The_Guardian_Weekly -> 
+2 : http://en.wikipedia.org/wiki/Special:Random -> https://en.wikipedia.org/wiki/The_New_York_Times -> 
+3 : http://en.wikipedia.org/wiki/Special:Random -> https://en.wikipedia.org/wiki/Railway_station -> https://en.wikipedia.org/wiki/Liverpool,_England -> 
+2 : http://en.wikipedia.org/wiki/Special:Random -> https://en.wikipedia.org/wiki/Sri_Lanka -> 
+2 : http://en.wikipedia.org/wiki/Special:Random -> https://en.wikipedia.org/wiki/Guatemala -> 
+2 : http://en.wikipedia.org/wiki/Special:Random -> https://en.wikipedia.org/wiki/Great_Depression -> 
+3 : http://en.wikipedia.org/wiki/Special:Random -> https://en.wikipedia.org/wiki/Main_Page -> https://en.wikipedia.org/wiki/James_Bond_(literary_character) -> 
+3 : http://en.wikipedia.org/wiki/Special:Random -> https://en.wikipedia.org/wiki/Garibaldi -> https://en.wikipedia.org/wiki/Kingdom_of_Italy -> 
+4 : http://en.wikipedia.org/wiki/Special:Random -> https://en.wikipedia.org/wiki/Korean_name -> https://en.wikipedia.org/wiki/Names_of_Korea -> https://en.wikipedia.org/wiki/Transcription_into_Chinese_characters -> 
+3 : http://en.wikipedia.org/wiki/Special:Random -> https://en.wikipedia.org/wiki/Dravidian_people -> https://en.wikipedia.org/wiki/Sri_Lanka -> 
+2 : http://en.wikipedia.org/wiki/Special:Random -> https://en.wikipedia.org/wiki/Sweden_Democrats -> 
+3 : http://en.wikipedia.org/wiki/Special:Random -> https://en.wikipedia.org/wiki/Short_Film_Golden_Bear -> https://en.wikipedia.org/wiki/28th_Berlin_International_Film_Festival -> 
+3 : http://en.wikipedia.org/wiki/Special:Random -> https://en.wikipedia.org/wiki/Florida_National_Cemetery -> https://en.wikipedia.org/wiki/Korean_War -> 
+3 : http://en.wikipedia.org/wiki/Special:Random -> https://en.wikipedia.org/wiki/National_Register_of_Historic_Places -> https://en.wikipedia.org/wiki/Social_history -> 
+5 : http://en.wikipedia.org/wiki/Special:Random -> https://en.wikipedia.org/wiki/Philadelphia_White_Stockings -> https://en.wikipedia.org/wiki/Erie_Explosion -> https://en.wikipedia.org/wiki/Division_(sport) -> https://en.wikipedia.org/wiki/Sport -> 
+3 : http://en.wikipedia.org/wiki/Special:Random -> https://en.wikipedia.org/wiki/%C3%96v%C3%B6rkhangai_Province -> https://en.wikipedia.org/wiki/Vehicle_registration_plate -> 
+3 : http://en.wikipedia.org/wiki/Special:Random -> https://en.wikipedia.org/wiki/Henry_II_of_France -> https://en.wikipedia.org/wiki/Florence -> 
+4 : http://en.wikipedia.org/wiki/Special:Random -> https://en.wikipedia.org/wiki/Nymphalidae -> https://en.wikipedia.org/wiki/Clade -> https://en.wikipedia.org/wiki/Ernst_Haeckel -> 
+3 : http://en.wikipedia.org/wiki/Special:Random -> https://en.wikipedia.org/wiki/Record_label -> https://en.wikipedia.org/wiki/The_New_York_Times -> 
+3 : http://en.wikipedia.org/wiki/Special:Random -> https://en.wikipedia.org/wiki/Mollusca -> https://en.wikipedia.org/wiki/Carl_Linnaeus -> 
+3 : http://en.wikipedia.org/wiki/Special:Random -> https://en.wikipedia.org/wiki/David_J._Carter -> https://en.wikipedia.org/wiki/Napoleon -> 
+3 : http://en.wikipedia.org/wiki/Special:Random -> https://en.wikipedia.org/wiki/Sujit_Mukherjee -> https://en.wikipedia.org/wiki/Bengal_Presidency -> 
+2 : http://en.wikipedia.org/wiki/Special:Random -> https://en.wikipedia.org/wiki/1931_Grand_Prix_season -> 
+3 : http://en.wikipedia.org/wiki/Special:Random -> https://en.wikipedia.org/wiki/Conservation_status -> https://en.wikipedia.org/wiki/Latin_America -> 
+2 : http://en.wikipedia.org/wiki/Special:Random -> https://en.wikipedia.org/wiki/Nuremberg -> 
+3 : http://en.wikipedia.org/wiki/Special:Random -> https://en.wikipedia.org/wiki/Geographic_coordinate_system -> https://en.wikipedia.org/wiki/Scotland -> 
+3 : http://en.wikipedia.org/wiki/Special:Random -> https://en.wikipedia.org/wiki/Main_Page -> https://en.wikipedia.org/wiki/James_Bond_(literary_character) -> 
+3 : http://en.wikipedia.org/wiki/Special:Random -> https://en.wikipedia.org/wiki/The_Century_Plaza_Hotel -> https://en.wikipedia.org/wiki/Ronald_Reagan -> 
+3 : http://en.wikipedia.org/wiki/Special:Random -> https://en.wikipedia.org/wiki/Roosevelt_Road -> https://en.wikipedia.org/wiki/The_Roosevelts_(miniseries) -> 
+2 : http://en.wikipedia.org/wiki/Special:Random -> https://en.wikipedia.org/wiki/Deutsche_Bank -> 
+3 : http://en.wikipedia.org/wiki/Special:Random -> https://en.wikipedia.org/wiki/Heshmat_Sanjari -> https://en.wikipedia.org/wiki/Iranian_revolution -> 
+2 : http://en.wikipedia.org/wiki/Special:Random -> https://en.wikipedia.org/wiki/Serbia -> 
+3 : http://en.wikipedia.org/wiki/Special:Random -> https://en.wikipedia.org/wiki/Defender_(association_football) -> https://en.wikipedia.org/wiki/Sport -> 
+2 : http://en.wikipedia.org/wiki/Special:Random -> https://en.wikipedia.org/wiki/Agnieszka_Holland -> 
+5 : http://en.wikipedia.org/wiki/Special:Random -> https://en.wikipedia.org/wiki/Geographic_coordinate_system -> https://en.wikipedia.org/wiki/Maximus_Planudes -> https://en.wikipedia.org/wiki/Greek_Anthology -> https://en.wikipedia.org/wiki/Heidelberg_University -> 
+4 : http://en.wikipedia.org/wiki/Special:Random -> https://en.wikipedia.org/wiki/Stig_Bj%C3%B6rkman -> https://en.wikipedia.org/wiki/Film_criticism -> https://en.wikipedia.org/wiki/Sergei_Eisenstein -> 
+3 : http://en.wikipedia.org/wiki/Special:Random -> https://en.wikipedia.org/wiki/Anzac_Day -> https://en.wikipedia.org/wiki/First_World_War -> 
+4 : http://en.wikipedia.org/wiki/Special:Random -> https://en.wikipedia.org/wiki/Ishwari_Prasad_Narayan_Singh -> https://en.wikipedia.org/wiki/His_Highness -> https://en.wikipedia.org/wiki/Monarchism -> 
+3 : http://en.wikipedia.org/wiki/Special:Random -> https://en.wikipedia.org/wiki/Single-player -> https://en.wikipedia.org/wiki/Star_Wars -> 
+3 : http://en.wikipedia.org/wiki/Special:Random -> https://en.wikipedia.org/wiki/Historicism_(art) -> https://en.wikipedia.org/wiki/Germany -> 
+2 : http://en.wikipedia.org/wiki/Special:Random -> https://en.wikipedia.org/wiki/Id_Software -> 
+3 : http://en.wikipedia.org/wiki/Special:Random -> https://en.wikipedia.org/wiki/USS_Brilliant_(ID-1329) -> https://en.wikipedia.org/wiki/World_War_I -> 
+3 : http://en.wikipedia.org/wiki/Special:Random -> https://en.wikipedia.org/wiki/1997_Formula_One_World_Championship -> https://en.wikipedia.org/wiki/Germany -> 
+3 : http://en.wikipedia.org/wiki/Special:Random -> https://en.wikipedia.org/wiki/Saverne -> https://en.wikipedia.org/wiki/World_War_I -> 
+2 : http://en.wikipedia.org/wiki/Special:Random -> https://en.wikipedia.org/wiki/Austria -> 
+
+===================================================
+
+Statystyka : 
+Średnia metryka = 2,86
+Minimalna metryka = 2
+Maksymalna metryka = 6
